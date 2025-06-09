@@ -2,7 +2,6 @@
 
 A simple nestjs + tailwindcss + typescript boilerplate because it seems like there is none with latest versions. Here is a chatgpt generated description:
 
----
 
 ## 🚀 Features
 
@@ -14,22 +13,8 @@ A simple nestjs + tailwindcss + typescript boilerplate because it seems like the
 - 🌍 SEO & performance friendly defaults
 - ☁️ Easily deployable to [Vercel](https://vercel.com/)
 
----
-
-## 📁 Folder Structure
-
-├── app/ # App Router-based pages
-├── components/ # Reusable components
-├── public/ # Static files
-├── styles/ # Tailwind CSS and global styles
-├── tsconfig.json # TypeScript configuration
-├── tailwind.config.js # Tailwind configuration
-├── postcss.config.js # PostCSS configuration
-└── ...
-
----
-
 ## 🛠️ Getting Started
+
 
 ### 1. Clone the repository
 
