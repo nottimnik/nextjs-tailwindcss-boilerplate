@@ -19,9 +19,10 @@ A simple nestjs + tailwindcss + typescript boilerplate because it seems like the
 ### 1. Clone the repository
 
 
-``
+```
 git clone https://github.com/nottimnik/nextjs-tailwindcss-boilerplate.git
-cd nextjs-tailwindcss-boilerplate``
+cd nextjs-tailwindcss-boilerplate
+```
 
 ### 2. Install dependencies
 ```
